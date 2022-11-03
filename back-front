@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>♥Vitaliy`s Personal Site</title>
+  <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.13.0/css/all.css">
+</head>
+
+<body>
+
+<div class="card center">
+  <div class="front">
+    <img src="C:\Users\user\Desktop\Zharkovskiy Development\Web Development\HTML - Personal Site\images\chuknorris2.png" width="222" height="222" alt="lucky">
+  </div>
+
+<div class="back">
+
+<div class="back-content center">
+  <h2>Vitaliy Zharkovskiy</h2>
+  <span>Subscribe</span>
+  <span>Like</span>
+  <i class="fas fa-heart"></i>
+
+</div>
+
+</div>
+
+</div>
+
+</body>
+</html>
